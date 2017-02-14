@@ -12,3 +12,17 @@ Mon résumé :
 ### Loi uniforme :
 
 ![LoiUniforme](https://github.com/anthonysyk/-Ebiznext-FormationDataScience/blob/master/src/main/resources/LoiUniforme.png)
+
+Remarque : La distribution de x est la même sur tout l'interval
+
+### Loi de poisson :
+
+![LoiPoisson](https://github.com/anthonysyk/-Ebiznext-FormationDataScience/blob/master/src/main/resources/LoiPoisson.png)
+
+Remarque : A partir d'une fréquence de 5, la courbe converge vers une gaussienne
+
+### Loi Normale : 
+
+![LoiNormale](https://github.com/anthonysyk/-Ebiznext-FormationDataScience/blob/master/src/main/resources/LoiNormale.png)
+
+Remarque : Simulation de la taille des hommes et des femmes
