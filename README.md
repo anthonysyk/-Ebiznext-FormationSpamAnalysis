@@ -23,6 +23,6 @@ Remarque : A partir d'une fréquence de 5, la courbe converge vers une gaussienn
 
 ### Loi Normale : 
 
-![LoiNormale](https://github.com/anthonysyk/-Ebiznext-FormationDataScience/blob/master/src/main/resources/LoiNormale.png)
+![LoiNormale](https://github.com/anthonysyk/-Ebiznext-FormationDataScience/blob/master/src/main/resources/UnionLoiNormale.png)
 
 Remarque : Simulation de la taille des hommes et des femmes
