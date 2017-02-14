@@ -1,4 +1,4 @@
-name := "spam-analysis"
+name := "FormationDataScience"
 
 version := "1.0"
 
